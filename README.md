@@ -1,2 +1,1 @@
-# GitTask
-Exercise for QA bootcamp for Infosys
+hello world
